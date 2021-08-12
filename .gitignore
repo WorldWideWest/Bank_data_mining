@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+*.csv
+/env
+*.ipynb
