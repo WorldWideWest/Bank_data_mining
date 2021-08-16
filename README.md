@@ -1,5 +1,6 @@
 # Analysing the banks clients
 
+
 ## General Info
 
 Goal of this project is to predict which clients are going to leave the bank and which are stying.
